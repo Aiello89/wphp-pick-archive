@@ -1,0 +1,31 @@
+[
+  {
+    "away_b2b": "No",
+    "away_dark_horse": "Zach Benson",
+    "away_goalie": "Alex Lyon",
+    "away_goalie_gsaa": 10.47,
+    "away_goalscorer": "Josh Doan",
+    "away_ml": 152,
+    "away_team": "Sabres",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1778975151,
+    "game_date": "2026-05-16",
+    "game_time_et": "8:00 PM EDT",
+    "home_b2b": "No",
+    "home_dark_horse": "Nick Suzuki",
+    "home_goalie": "Jakub Dobes",
+    "home_goalie_gsaa": 7.0,
+    "home_goalscorer": "Juraj Slafkovsk\u00fd",
+    "home_ml": -170,
+    "home_team": "Canadiens",
+    "is_pick_of_day": true,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Under 6.5",
+    "pick_odds": -170,
+    "pick_odds_type": "spread_+1.5",
+    "potd_reasoning": "Model +10.5pp vs market | Model edge (49.7%) | Underdog value detected",
+    "wp_pick": "Sabres +1.5",
+    "wp_pick_team": "Sabres"
+  }
+]
