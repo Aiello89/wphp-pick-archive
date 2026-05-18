@@ -1,0 +1,31 @@
+[
+  {
+    "away_b2b": "No",
+    "away_dark_horse": "Nick Suzuki",
+    "away_goalie": "Jakub Dobes",
+    "away_goalie_gsaa": 7.0,
+    "away_goalscorer": "Juraj Slafkovsk\u00fd",
+    "away_ml": 102,
+    "away_team": "Canadiens",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1779146145,
+    "game_date": "2026-05-18",
+    "game_time_et": "7:30 PM EDT",
+    "home_b2b": "No",
+    "home_dark_horse": "Josh Doan",
+    "home_goalie": "Ukko-Pekka Luukkonen",
+    "home_goalie_gsaa": 11.92,
+    "home_goalscorer": "Zach Benson",
+    "home_ml": -112,
+    "home_team": "Sabres",
+    "is_pick_of_day": true,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 5.5",
+    "pick_odds": -250,
+    "pick_odds_type": "spread_+1.5",
+    "potd_reasoning": "Model edge (48.4%) | Underdog value detected",
+    "wp_pick": "Canadiens +1.5",
+    "wp_pick_team": "Canadiens"
+  }
+]
