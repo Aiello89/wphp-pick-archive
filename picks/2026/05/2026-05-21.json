@@ -1,0 +1,31 @@
+[
+  {
+    "away_b2b": "No",
+    "away_dark_horse": "Juraj Slafkovsk\u00fd",
+    "away_goalie": "Jakub Dobes",
+    "away_goalie_gsaa": 7.0,
+    "away_goalscorer": "Nick Suzuki",
+    "away_ml": 171,
+    "away_team": "Canadiens",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1779407153,
+    "game_date": "2026-05-21",
+    "game_time_et": "8:00 PM EDT",
+    "home_b2b": "No",
+    "home_dark_horse": "Seth Jarvis",
+    "home_goalie": "Frederik Andersen",
+    "home_goalie_gsaa": -18.23,
+    "home_goalscorer": "Jackson Blake",
+    "home_ml": -192,
+    "home_team": "Hurricanes",
+    "is_pick_of_day": true,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 5.5",
+    "pick_odds": -192,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Model edge (57.5%)",
+    "wp_pick": "Hurricanes moneyline",
+    "wp_pick_team": "Hurricanes"
+  }
+]
