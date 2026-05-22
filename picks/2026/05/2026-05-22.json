@@ -1,0 +1,31 @@
+[
+  {
+    "away_b2b": "No",
+    "away_dark_horse": "Tomas Hertl",
+    "away_goalie": "Carter Hart",
+    "away_goalie_gsaa": -2.09,
+    "away_goalscorer": "Jack Eichel",
+    "away_ml": 153,
+    "away_team": "Golden Knights",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1779493553,
+    "game_date": "2026-05-22",
+    "game_time_et": "8:00 PM EDT",
+    "home_b2b": "No",
+    "home_dark_horse": "Martin Necas",
+    "home_goalie": "Scott Wedgewood",
+    "home_goalie_gsaa": 28.07,
+    "home_goalscorer": "Nathan MacKinnon",
+    "home_ml": -170,
+    "home_team": "Avalanche",
+    "is_pick_of_day": true,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 6.0",
+    "pick_odds": -170,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Model edge (53.7%) | Goalie advantage (+30.2 GSAA)",
+    "wp_pick": "Avalanche moneyline",
+    "wp_pick_team": "Avalanche"
+  }
+]
