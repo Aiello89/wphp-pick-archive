@@ -1,0 +1,31 @@
+[
+  {
+    "away_b2b": "No",
+    "away_dark_horse": "Jordan Staal",
+    "away_goalie": "Frederik Andersen",
+    "away_goalie_gsaa": -18.23,
+    "away_goalscorer": "Nikolaj Ehlers",
+    "away_ml": -151,
+    "away_team": "Hurricanes",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1779752757,
+    "game_date": "2026-05-25",
+    "game_time_et": "8:00 PM EDT",
+    "home_b2b": "No",
+    "home_dark_horse": "Juraj Slafkovsk\u00fd",
+    "home_goalie": "Jakub Dobes",
+    "home_goalie_gsaa": 7.0,
+    "home_goalscorer": "Nick Suzuki",
+    "home_ml": 136,
+    "home_team": "Canadiens",
+    "is_pick_of_day": true,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 6.0",
+    "pick_odds": -151,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Model edge (54.6%)",
+    "wp_pick": "Hurricanes moneyline",
+    "wp_pick_team": "Hurricanes"
+  }
+]
