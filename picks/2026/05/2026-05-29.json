@@ -1,0 +1,31 @@
+[
+  {
+    "away_b2b": "No",
+    "away_dark_horse": "Cole Caufield",
+    "away_goalie": "Jakub Dobes",
+    "away_goalie_gsaa": 13.83,
+    "away_goalscorer": "Nick Suzuki",
+    "away_ml": 217,
+    "away_team": "Canadiens",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1780098356,
+    "game_date": "2026-05-29",
+    "game_time_et": "8:00 PM EDT",
+    "home_b2b": "No",
+    "home_dark_horse": "Taylor Hall",
+    "home_goalie": "Frederik Andersen",
+    "home_goalie_gsaa": -9.84,
+    "home_goalscorer": "Jackson Blake",
+    "home_ml": -248,
+    "home_team": "Hurricanes",
+    "is_pick_of_day": true,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 5.5",
+    "pick_odds": -248,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Model edge (58.5%)",
+    "wp_pick": "Hurricanes moneyline",
+    "wp_pick_team": "Hurricanes"
+  }
+]
