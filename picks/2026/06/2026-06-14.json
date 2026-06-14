@@ -1,0 +1,31 @@
+[
+  {
+    "away_b2b": "No",
+    "away_dark_horse": "Andrei Svechnikov",
+    "away_goalie": "Brandon Bussi",
+    "away_goalie_gsaa": -1.75,
+    "away_goalscorer": "Jackson Blake",
+    "away_ml": -109,
+    "away_team": "Hurricanes",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1781480752,
+    "game_date": "2026-06-14",
+    "game_time_et": "8:00 PM EDT",
+    "home_b2b": "No",
+    "home_dark_horse": "Mitch Marner",
+    "home_goalie": "Carter Hart",
+    "home_goalie_gsaa": -2.09,
+    "home_goalscorer": "Jack Eichel",
+    "home_ml": -101,
+    "home_team": "Golden Knights",
+    "is_pick_of_day": true,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 6.0",
+    "pick_odds": -109,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Model edge (53.7%)",
+    "wp_pick": "Hurricanes moneyline",
+    "wp_pick_team": "Hurricanes"
+  }
+]
