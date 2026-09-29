@@ -1,0 +1,31 @@
+[
+  {
+    "away_b2b": "No",
+    "away_dark_horse": "",
+    "away_goalie": "J. Markstrom",
+    "away_goalie_gsaa": 0.0,
+    "away_goalscorer": "Matthew Tkachuk",
+    "away_ml": 114,
+    "away_team": "Panthers",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1790714753,
+    "game_date": "2026-09-29",
+    "game_time_et": "5:00 PM EDT",
+    "home_b2b": "No",
+    "home_dark_horse": "",
+    "home_goalie": "B. Bussi",
+    "home_goalie_gsaa": 1.9,
+    "home_goalscorer": "Jackson Blake",
+    "home_ml": -126,
+    "home_team": "Hurricanes",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 6.0",
+    "pick_odds": -126,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "",
+    "wp_pick": "Hurricanes moneyline",
+    "wp_pick_team": "Hurricanes"
+  }
+]
