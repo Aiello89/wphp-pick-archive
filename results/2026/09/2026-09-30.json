@@ -1,0 +1,29 @@
+[
+  {
+    "away_score": 4,
+    "away_team": "Kings",
+    "game_date": "2026-09-30",
+    "home_score": 8,
+    "home_team": "Avalanche",
+    "pick_result": "loss",
+    "wp_pick": "Kings +1.5"
+  },
+  {
+    "away_score": 7,
+    "away_team": "Penguins",
+    "game_date": "2026-09-30",
+    "home_score": 0,
+    "home_team": "Flyers",
+    "pick_result": "win",
+    "wp_pick": "Penguins +1.5"
+  },
+  {
+    "away_score": 1,
+    "away_team": "Islanders",
+    "game_date": "2026-09-30",
+    "home_score": 2,
+    "home_team": "Maple Leafs",
+    "pick_result": "loss",
+    "wp_pick": "Islanders moneyline"
+  }
+]
