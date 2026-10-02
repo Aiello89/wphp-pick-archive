@@ -1,0 +1,31 @@
+[
+  {
+    "away_b2b": "Yes",
+    "away_dark_horse": "Gabe Perreault",
+    "away_goalie": "D. Garand",
+    "away_goalie_gsaa": 3.47,
+    "away_goalscorer": "Pavel Dorofeyev",
+    "away_ml": 115,
+    "away_team": "Rangers",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1790979355,
+    "game_date": "2026-10-02",
+    "game_time_et": "6:30 PM EDT",
+    "home_b2b": "No",
+    "home_dark_horse": "",
+    "home_goalie": "J. Gibson",
+    "home_goalie_gsaa": 6.77,
+    "home_goalscorer": "Alex DeBrincat",
+    "home_ml": -127,
+    "home_team": "Red Wings",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 6.0",
+    "pick_odds": -230,
+    "pick_odds_type": "spread_+1.5",
+    "potd_reasoning": "",
+    "wp_pick": "Rangers +1.5",
+    "wp_pick_team": "Rangers"
+  }
+]
