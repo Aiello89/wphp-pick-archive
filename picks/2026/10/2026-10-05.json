@@ -1,0 +1,31 @@
+[
+  {
+    "away_b2b": "No",
+    "away_dark_horse": "Alex Bump",
+    "away_goalie": "D. Vladar",
+    "away_goalie_gsaa": -2.87,
+    "away_goalscorer": "Travis Konecny",
+    "away_ml": 196,
+    "away_team": "Flyers",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1791240343,
+    "game_date": "2026-10-05",
+    "game_time_et": "7:00 PM EDT",
+    "home_b2b": "No",
+    "home_dark_horse": "Pontus Holmberg",
+    "home_goalie": "A. Vasilevskiy",
+    "home_goalie_gsaa": -0.11,
+    "home_goalscorer": "Brandon Hagel",
+    "home_ml": -221,
+    "home_team": "Lightning",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Under 6.0",
+    "pick_odds": -221,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "",
+    "wp_pick": "Lightning moneyline",
+    "wp_pick_team": "Lightning"
+  }
+]
