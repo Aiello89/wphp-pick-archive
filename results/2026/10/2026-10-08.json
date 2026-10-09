@@ -1,0 +1,92 @@
+[
+  {
+    "away_score": 3,
+    "away_team": "Sharks",
+    "game_date": "2026-10-08",
+    "home_score": 2,
+    "home_team": "Blues",
+    "pick_result": "win",
+    "wp_pick": "Sharks +1.5"
+  },
+  {
+    "away_score": 1,
+    "away_team": "Mammoth",
+    "game_date": "2026-10-08",
+    "home_score": 6,
+    "home_team": "Bruins",
+    "pick_result": "loss",
+    "wp_pick": "Mammoth moneyline"
+  },
+  {
+    "away_score": 5,
+    "away_team": "Predators",
+    "game_date": "2026-10-08",
+    "home_score": 2,
+    "home_team": "Canadiens",
+    "pick_result": "win",
+    "wp_pick": "Predators +1.5"
+  },
+  {
+    "away_score": 7,
+    "away_team": "Avalanche",
+    "game_date": "2026-10-08",
+    "home_score": 3,
+    "home_team": "Flames",
+    "pick_result": "win",
+    "wp_pick": "Avalanche moneyline"
+  },
+  {
+    "away_score": 3,
+    "away_team": "Maple Leafs",
+    "game_date": "2026-10-08",
+    "home_score": 4,
+    "home_team": "Golden Knights",
+    "pick_result": "win",
+    "wp_pick": "Golden Knights moneyline"
+  },
+  {
+    "away_score": 2,
+    "away_team": "Canucks",
+    "game_date": "2026-10-08",
+    "home_score": 7,
+    "home_team": "Hurricanes",
+    "pick_result": "win",
+    "wp_pick": "Hurricanes moneyline"
+  },
+  {
+    "away_score": 1,
+    "away_team": "Blackhawks",
+    "game_date": "2026-10-08",
+    "home_score": 4,
+    "home_team": "Islanders",
+    "pick_result": "win",
+    "wp_pick": "Islanders moneyline"
+  },
+  {
+    "away_score": 2,
+    "away_team": "Wild",
+    "game_date": "2026-10-08",
+    "home_score": 3,
+    "home_team": "Lightning",
+    "pick_result": "win",
+    "wp_pick": "Wild +1.5"
+  },
+  {
+    "away_score": 4,
+    "away_team": "Stars",
+    "game_date": "2026-10-08",
+    "home_score": 0,
+    "home_team": "Sabres",
+    "pick_result": "win",
+    "wp_pick": "Stars moneyline"
+  },
+  {
+    "away_score": 1,
+    "away_team": "Flyers",
+    "game_date": "2026-10-08",
+    "home_score": 2,
+    "home_team": "Senators",
+    "pick_result": "win",
+    "wp_pick": "Senators moneyline"
+  }
+]
