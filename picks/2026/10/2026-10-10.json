@@ -1,0 +1,31 @@
+[
+  {
+    "away_b2b": "No",
+    "away_dark_horse": "Matvei Michkov",
+    "away_goalie": "D. Vladar",
+    "away_goalie_gsaa": -2.03,
+    "away_goalscorer": "Travis Konecny",
+    "away_ml": 125,
+    "away_team": "Flyers",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1791651347,
+    "game_date": "2026-10-10",
+    "game_time_et": "1:00 PM EDT",
+    "home_b2b": "No",
+    "home_dark_horse": "Elias Lindholm",
+    "home_goalie": "J. Swayman",
+    "home_goalie_gsaa": 4.88,
+    "home_goalscorer": "David Pastrnak",
+    "home_ml": -138,
+    "home_team": "Bruins",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 5.5",
+    "pick_odds": -138,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "",
+    "wp_pick": "Bruins moneyline",
+    "wp_pick_team": "Bruins"
+  }
+]
