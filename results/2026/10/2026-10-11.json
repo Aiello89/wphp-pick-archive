@@ -1,0 +1,29 @@
+[
+  {
+    "away_score": 5,
+    "away_team": "Kraken",
+    "game_date": "2026-10-11",
+    "home_score": 3,
+    "home_team": "Capitals",
+    "pick_result": "loss",
+    "wp_pick": "Capitals moneyline"
+  },
+  {
+    "away_score": 4,
+    "away_team": "Hurricanes",
+    "game_date": "2026-10-11",
+    "home_score": 1,
+    "home_team": "Flyers",
+    "pick_result": "win",
+    "wp_pick": "Hurricanes moneyline"
+  },
+  {
+    "away_score": 2,
+    "away_team": "Canucks",
+    "game_date": "2026-10-11",
+    "home_score": 6,
+    "home_team": "Rangers",
+    "pick_result": "win",
+    "wp_pick": "Rangers moneyline"
+  }
+]
