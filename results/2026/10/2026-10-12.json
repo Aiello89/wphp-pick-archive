@@ -1,0 +1,29 @@
+[
+  {
+    "away_score": 4,
+    "away_team": "Senators",
+    "game_date": "2026-10-12",
+    "home_score": 1,
+    "home_team": "Devils",
+    "pick_result": "win",
+    "wp_pick": "Senators +1.5"
+  },
+  {
+    "away_score": 3,
+    "away_team": "Panthers",
+    "game_date": "2026-10-12",
+    "home_score": 5,
+    "home_team": "Sabres",
+    "pick_result": "loss",
+    "wp_pick": "Panthers +1.5"
+  },
+  {
+    "away_score": 2,
+    "away_team": "Golden Knights",
+    "game_date": "2026-10-12",
+    "home_score": 4,
+    "home_team": "Wild",
+    "pick_result": "win",
+    "wp_pick": "Wild +1.5"
+  }
+]
