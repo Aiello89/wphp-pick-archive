@@ -1,0 +1,31 @@
+[
+  {
+    "away_b2b": "No",
+    "away_dark_horse": "Evgeni Malkin",
+    "away_goalie": "A. Silovs",
+    "away_goalie_gsaa": -15.19,
+    "away_goalscorer": "Sidney Crosby",
+    "away_ml": 177,
+    "away_team": "Penguins",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1792198540,
+    "game_date": "2026-10-16",
+    "game_time_et": "9:00 PM EDT",
+    "home_b2b": "No",
+    "home_dark_horse": "Parker Kelly",
+    "home_goalie": "M. Blackwood",
+    "home_goalie_gsaa": 7.86,
+    "home_goalscorer": "Nathan MacKinnon",
+    "home_ml": -199,
+    "home_team": "Avalanche",
+    "is_pick_of_day": true,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 6.5",
+    "pick_odds": -199,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Model edge | Goalie advantage (+23.1 GSAA)",
+    "wp_pick": "Avalanche moneyline",
+    "wp_pick_team": "Avalanche"
+  }
+]
