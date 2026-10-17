@@ -1,0 +1,31 @@
+[
+  {
+    "away_b2b": "No",
+    "away_dark_horse": "Jesper Bratt",
+    "away_goalie": "J. Allen",
+    "away_goalie_gsaa": 7.01,
+    "away_goalscorer": "Jack Hughes",
+    "away_ml": 102,
+    "away_team": "Devils",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1792256146,
+    "game_date": "2026-10-17",
+    "game_time_et": "1:00 PM EDT",
+    "home_b2b": "No",
+    "home_dark_horse": "Ryan Leonard",
+    "home_goalie": "L. Thompson",
+    "home_goalie_gsaa": 24.89,
+    "home_goalscorer": "Alex Tuch",
+    "home_ml": -112,
+    "home_team": "Capitals",
+    "is_pick_of_day": true,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 6.0",
+    "pick_odds": 102,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Model edge | Model vs market | Underdog value detected",
+    "wp_pick": "Devils moneyline",
+    "wp_pick_team": "Devils"
+  }
+]
