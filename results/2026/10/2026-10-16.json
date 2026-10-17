@@ -1,0 +1,20 @@
+[
+  {
+    "away_score": 2,
+    "away_team": "Penguins",
+    "game_date": "2026-10-16",
+    "home_score": 5,
+    "home_team": "Avalanche",
+    "pick_result": "win",
+    "wp_pick": "Avalanche moneyline"
+  },
+  {
+    "away_score": 4,
+    "away_team": "Bruins",
+    "game_date": "2026-10-16",
+    "home_score": 2,
+    "home_team": "Ducks",
+    "pick_result": "loss",
+    "wp_pick": "Ducks +1.5"
+  }
+]
