@@ -1,0 +1,20 @@
+[
+  {
+    "away_score": 2,
+    "away_team": "Hurricanes",
+    "game_date": "2026-10-18",
+    "home_score": 3,
+    "home_team": "Flames",
+    "pick_result": "loss",
+    "wp_pick": "Hurricanes moneyline"
+  },
+  {
+    "away_score": 1,
+    "away_team": "Blue Jackets",
+    "game_date": "2026-10-18",
+    "home_score": 2,
+    "home_team": "Wild",
+    "pick_result": "win",
+    "wp_pick": "Blue Jackets +1.5"
+  }
+]
