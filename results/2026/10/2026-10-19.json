@@ -1,0 +1,38 @@
+[
+  {
+    "away_score": 2,
+    "away_team": "Avalanche",
+    "game_date": "2026-10-19",
+    "home_score": 3,
+    "home_team": "Flyers",
+    "pick_result": "loss",
+    "wp_pick": "Avalanche moneyline"
+  },
+  {
+    "away_score": 4,
+    "away_team": "Penguins",
+    "game_date": "2026-10-19",
+    "home_score": 5,
+    "home_team": "Mammoth",
+    "pick_result": "win",
+    "wp_pick": "Mammoth moneyline"
+  },
+  {
+    "away_score": 1,
+    "away_team": "Sharks",
+    "game_date": "2026-10-19",
+    "home_score": 3,
+    "home_team": "Maple Leafs",
+    "pick_result": "loss",
+    "wp_pick": "Sharks +1.5"
+  },
+  {
+    "away_score": 2,
+    "away_team": "Ducks",
+    "game_date": "2026-10-19",
+    "home_score": 5,
+    "home_team": "Rangers",
+    "pick_result": "loss",
+    "wp_pick": "Ducks +1.5"
+  }
+]
