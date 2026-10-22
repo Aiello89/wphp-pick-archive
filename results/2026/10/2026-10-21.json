@@ -1,0 +1,20 @@
+[
+  {
+    "away_score": 3,
+    "away_team": "Flyers",
+    "game_date": "2026-10-21",
+    "home_score": 1,
+    "home_team": "Sabres",
+    "pick_result": "loss",
+    "wp_pick": "Sabres moneyline"
+  },
+  {
+    "away_score": 1,
+    "away_team": "Panthers",
+    "game_date": "2026-10-21",
+    "home_score": 5,
+    "home_team": "Senators",
+    "pick_result": "loss",
+    "wp_pick": "Panthers +1.5"
+  }
+]
