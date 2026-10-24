@@ -1,0 +1,20 @@
+[
+  {
+    "away_score": 3,
+    "away_team": "Lightning",
+    "game_date": "2026-10-23",
+    "home_score": 6,
+    "home_team": "Avalanche",
+    "pick_result": "loss",
+    "wp_pick": "Lightning moneyline"
+  },
+  {
+    "away_score": 4,
+    "away_team": "Canadiens",
+    "game_date": "2026-10-23",
+    "home_score": 1,
+    "home_team": "Blackhawks",
+    "pick_result": "win",
+    "wp_pick": "Canadiens moneyline"
+  }
+]
