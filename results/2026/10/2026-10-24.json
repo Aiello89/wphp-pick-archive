@@ -1,0 +1,110 @@
+[
+  {
+    "away_score": 1,
+    "away_team": "Golden Knights",
+    "game_date": "2026-10-24",
+    "home_score": 2,
+    "home_team": "Blue Jackets",
+    "pick_result": "loss",
+    "wp_pick": "Golden Knights moneyline"
+  },
+  {
+    "away_score": 4,
+    "away_team": "Hurricanes",
+    "game_date": "2026-10-24",
+    "home_score": 0,
+    "home_team": "Blues",
+    "pick_result": "loss",
+    "wp_pick": "Blues +1.5"
+  },
+  {
+    "away_score": 4,
+    "away_team": "Sharks",
+    "game_date": "2026-10-24",
+    "home_score": 6,
+    "home_team": "Bruins",
+    "pick_result": "win",
+    "wp_pick": "Bruins moneyline"
+  },
+  {
+    "away_score": 3,
+    "away_team": "Sabres",
+    "game_date": "2026-10-24",
+    "home_score": 4,
+    "home_team": "Capitals",
+    "pick_result": "win",
+    "wp_pick": "Sabres +1.5"
+  },
+  {
+    "away_score": 1,
+    "away_team": "Kings",
+    "game_date": "2026-10-24",
+    "home_score": 3,
+    "home_team": "Devils",
+    "pick_result": "win",
+    "wp_pick": "Devils moneyline"
+  },
+  {
+    "away_score": 1,
+    "away_team": "Red Wings",
+    "game_date": "2026-10-24",
+    "home_score": 4,
+    "home_team": "Flames",
+    "pick_result": "win",
+    "wp_pick": "Flames +1.5"
+  },
+  {
+    "away_score": 5,
+    "away_team": "Ducks",
+    "game_date": "2026-10-24",
+    "home_score": 4,
+    "home_team": "Flyers",
+    "pick_result": "win",
+    "wp_pick": "Ducks +1.5"
+  },
+  {
+    "away_score": 5,
+    "away_team": "Wild",
+    "game_date": "2026-10-24",
+    "home_score": 1,
+    "home_team": "Kraken",
+    "pick_result": "win",
+    "wp_pick": "Wild moneyline"
+  },
+  {
+    "away_score": 4,
+    "away_team": "Lightning",
+    "game_date": "2026-10-24",
+    "home_score": 5,
+    "home_team": "Mammoth",
+    "pick_result": "win",
+    "wp_pick": "Lightning +1.5"
+  },
+  {
+    "away_score": 7,
+    "away_team": "Maple Leafs",
+    "game_date": "2026-10-24",
+    "home_score": 2,
+    "home_team": "Oilers",
+    "pick_result": "win",
+    "wp_pick": "Maple Leafs +1.5"
+  },
+  {
+    "away_score": 2,
+    "away_team": "Predators",
+    "game_date": "2026-10-24",
+    "home_score": 3,
+    "home_team": "Penguins",
+    "pick_result": "win",
+    "wp_pick": "Predators +1.5"
+  },
+  {
+    "away_score": 4,
+    "away_team": "Rangers",
+    "game_date": "2026-10-24",
+    "home_score": 7,
+    "home_team": "Senators",
+    "pick_result": "loss",
+    "wp_pick": "Rangers +1.5"
+  }
+]
