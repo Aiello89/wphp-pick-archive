@@ -1,0 +1,31 @@
+[
+  {
+    "away_b2b": "No",
+    "away_dark_horse": "Matthew Tkachuk",
+    "away_goalie": "A. Schmid",
+    "away_goalie_gsaa": -3.12,
+    "away_goalscorer": "Brad Marchand",
+    "away_ml": -192,
+    "away_team": "Panthers",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1792954542,
+    "game_date": "2026-10-25",
+    "game_time_et": "3:00 PM EDT",
+    "home_b2b": "No",
+    "home_dark_horse": "Patrick Kane",
+    "home_goalie": "S. Knight",
+    "home_goalie_gsaa": -0.89,
+    "home_goalscorer": "Connor Bedard",
+    "home_ml": 171,
+    "home_team": "Blackhawks",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Under 6.0",
+    "pick_odds": -192,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "",
+    "wp_pick": "Panthers moneyline",
+    "wp_pick_team": "Panthers"
+  }
+]
