@@ -1,0 +1,31 @@
+[
+  {
+    "away_b2b": "No",
+    "away_dark_horse": "",
+    "away_goalie": "D. Kuemper",
+    "away_goalie_gsaa": -0.22,
+    "away_goalscorer": "Adrian Kempe",
+    "away_ml": 112,
+    "away_team": "Kings",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1793055340,
+    "game_date": "2026-10-26",
+    "game_time_et": "7:00 PM EDT",
+    "home_b2b": "No",
+    "home_dark_horse": "Gabe Perreault",
+    "home_goalie": "J. Reimer",
+    "home_goalie_gsaa": -2.78,
+    "home_goalscorer": "Pavel Dorofeyev",
+    "home_ml": -124,
+    "home_team": "Rangers",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Under 6.0",
+    "pick_odds": 112,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "",
+    "wp_pick": "Kings moneyline",
+    "wp_pick_team": "Kings"
+  }
+]
