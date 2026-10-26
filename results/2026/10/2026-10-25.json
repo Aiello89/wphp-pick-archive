@@ -1,0 +1,47 @@
+[
+  {
+    "away_score": 3,
+    "away_team": "Panthers",
+    "game_date": "2026-10-25",
+    "home_score": 2,
+    "home_team": "Blackhawks",
+    "pick_result": "win",
+    "wp_pick": "Panthers moneyline"
+  },
+  {
+    "away_score": 4,
+    "away_team": "Wild",
+    "game_date": "2026-10-25",
+    "home_score": 2,
+    "home_team": "Canucks",
+    "pick_result": "win",
+    "wp_pick": "Wild moneyline"
+  },
+  {
+    "away_score": 2,
+    "away_team": "Canadiens",
+    "game_date": "2026-10-25",
+    "home_score": 1,
+    "home_team": "Jets",
+    "pick_result": "win",
+    "wp_pick": "Jets +1.5"
+  },
+  {
+    "away_score": 2,
+    "away_team": "Avalanche",
+    "game_date": "2026-10-25",
+    "home_score": 6,
+    "home_team": "Predators",
+    "pick_result": "loss",
+    "wp_pick": "Avalanche moneyline"
+  },
+  {
+    "away_score": 3,
+    "away_team": "Islanders",
+    "game_date": "2026-10-25",
+    "home_score": 6,
+    "home_team": "Stars",
+    "pick_result": "loss",
+    "wp_pick": "Islanders +1.5"
+  }
+]
