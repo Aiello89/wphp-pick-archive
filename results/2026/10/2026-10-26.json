@@ -1,0 +1,29 @@
+[
+  {
+    "away_score": 2,
+    "away_team": "Maple Leafs",
+    "game_date": "2026-10-26",
+    "home_score": 5,
+    "home_team": "Flames",
+    "pick_result": "win",
+    "wp_pick": "Flames +1.5"
+  },
+  {
+    "away_score": 4,
+    "away_team": "Red Wings",
+    "game_date": "2026-10-26",
+    "home_score": 3,
+    "home_team": "Oilers",
+    "pick_result": "win",
+    "wp_pick": "Red Wings +1.5"
+  },
+  {
+    "away_score": 6,
+    "away_team": "Kings",
+    "game_date": "2026-10-26",
+    "home_score": 3,
+    "home_team": "Rangers",
+    "pick_result": "win",
+    "wp_pick": "Kings moneyline"
+  }
+]
