@@ -1,0 +1,101 @@
+[
+  {
+    "away_score": 1,
+    "away_team": "Kings",
+    "game_date": "2026-10-27",
+    "home_score": 2,
+    "home_team": "Blackhawks",
+    "pick_result": "loss",
+    "wp_pick": "Kings moneyline"
+  },
+  {
+    "away_score": 2,
+    "away_team": "Canadiens",
+    "game_date": "2026-10-27",
+    "home_score": 0,
+    "home_team": "Blues",
+    "pick_result": "loss",
+    "wp_pick": "Blues +1.5"
+  },
+  {
+    "away_score": 6,
+    "away_team": "Canucks",
+    "game_date": "2026-10-27",
+    "home_score": 5,
+    "home_team": "Ducks",
+    "pick_result": "loss",
+    "wp_pick": "Ducks moneyline"
+  },
+  {
+    "away_score": 4,
+    "away_team": "Blue Jackets",
+    "game_date": "2026-10-27",
+    "home_score": 3,
+    "home_team": "Flyers",
+    "pick_result": "win",
+    "wp_pick": "Flyers +1.5"
+  },
+  {
+    "away_score": 1,
+    "away_team": "Senators",
+    "game_date": "2026-10-27",
+    "home_score": 4,
+    "home_team": "Golden Knights",
+    "pick_result": "loss",
+    "wp_pick": "Senators +1.5"
+  },
+  {
+    "away_score": 1,
+    "away_team": "Bruins",
+    "game_date": "2026-10-27",
+    "home_score": 2,
+    "home_team": "Hurricanes",
+    "pick_result": "win",
+    "wp_pick": "Bruins +1.5"
+  },
+  {
+    "away_score": 5,
+    "away_team": "Panthers",
+    "game_date": "2026-10-27",
+    "home_score": 1,
+    "home_team": "Jets",
+    "pick_result": "win",
+    "wp_pick": "Panthers moneyline"
+  },
+  {
+    "away_score": 3,
+    "away_team": "Wild",
+    "game_date": "2026-10-27",
+    "home_score": 1,
+    "home_team": "Mammoth",
+    "pick_result": "win",
+    "wp_pick": "Wild +1.5"
+  },
+  {
+    "away_score": 4,
+    "away_team": "Islanders",
+    "game_date": "2026-10-27",
+    "home_score": 3,
+    "home_team": "Predators",
+    "pick_result": "win",
+    "wp_pick": "Islanders +1.5"
+  },
+  {
+    "away_score": 2,
+    "away_team": "Sabres",
+    "game_date": "2026-10-27",
+    "home_score": 0,
+    "home_team": "Sharks",
+    "pick_result": "loss",
+    "wp_pick": "Sharks +1.5"
+  },
+  {
+    "away_score": 5,
+    "away_team": "Devils",
+    "game_date": "2026-10-27",
+    "home_score": 1,
+    "home_team": "Stars",
+    "pick_result": "win",
+    "wp_pick": "Devils +1.5"
+  }
+]
