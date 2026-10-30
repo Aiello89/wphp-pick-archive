@@ -1,0 +1,31 @@
+[
+  {
+    "away_b2b": "No",
+    "away_dark_horse": "Jesper Bratt",
+    "away_goalie": "C. Hellebuyck",
+    "away_goalie_gsaa": 0.96,
+    "away_goalscorer": "Jack Hughes",
+    "away_ml": -100,
+    "away_team": "Devils",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1793397342,
+    "game_date": "2026-10-30",
+    "game_time_et": "6:00 PM EDT",
+    "home_b2b": "No",
+    "home_dark_horse": "Brett Howden",
+    "home_goalie": "A. Hill",
+    "home_goalie_gsaa": 0.7,
+    "home_goalscorer": "Mark Stone",
+    "home_ml": -110,
+    "home_team": "Golden Knights",
+    "is_pick_of_day": true,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 6.0",
+    "pick_odds": -100,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Model edge | Model vs market",
+    "wp_pick": "Devils moneyline",
+    "wp_pick_team": "Devils"
+  }
+]
