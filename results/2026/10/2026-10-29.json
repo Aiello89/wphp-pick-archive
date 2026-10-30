@@ -1,0 +1,101 @@
+[
+  {
+    "away_score": 1,
+    "away_team": "Bruins",
+    "game_date": "2026-10-29",
+    "home_score": 4,
+    "home_team": "Blues",
+    "pick_result": "loss",
+    "wp_pick": "Bruins +1.5"
+  },
+  {
+    "away_score": 7,
+    "away_team": "Sabres",
+    "game_date": "2026-10-29",
+    "home_score": 6,
+    "home_team": "Ducks",
+    "pick_result": "win",
+    "wp_pick": "Ducks +1.5"
+  },
+  {
+    "away_score": 2,
+    "away_team": "Blue Jackets",
+    "game_date": "2026-10-29",
+    "home_score": 3,
+    "home_team": "Hurricanes",
+    "pick_result": "win",
+    "wp_pick": "Hurricanes moneyline"
+  },
+  {
+    "away_score": 5,
+    "away_team": "Senators",
+    "game_date": "2026-10-29",
+    "home_score": 6,
+    "home_team": "Kings",
+    "pick_result": "win",
+    "wp_pick": "Kings +1.5"
+  },
+  {
+    "away_score": 4,
+    "away_team": "Jets",
+    "game_date": "2026-10-29",
+    "home_score": 6,
+    "home_team": "Lightning",
+    "pick_result": "win",
+    "wp_pick": "Lightning moneyline"
+  },
+  {
+    "away_score": 4,
+    "away_team": "Mammoth",
+    "game_date": "2026-10-29",
+    "home_score": 3,
+    "home_team": "Penguins",
+    "pick_result": "win",
+    "wp_pick": "Penguins +1.5"
+  },
+  {
+    "away_score": 4,
+    "away_team": "Capitals",
+    "game_date": "2026-10-29",
+    "home_score": 3,
+    "home_team": "Predators",
+    "pick_result": "win",
+    "wp_pick": "Capitals +1.5"
+  },
+  {
+    "away_score": 1,
+    "away_team": "Blackhawks",
+    "game_date": "2026-10-29",
+    "home_score": 4,
+    "home_team": "Red Wings",
+    "pick_result": "win",
+    "wp_pick": "Red Wings moneyline"
+  },
+  {
+    "away_score": 2,
+    "away_team": "Canucks",
+    "game_date": "2026-10-29",
+    "home_score": 3,
+    "home_team": "Sharks",
+    "pick_result": "win",
+    "wp_pick": "Canucks +1.5"
+  },
+  {
+    "away_score": 5,
+    "away_team": "Canadiens",
+    "game_date": "2026-10-29",
+    "home_score": 2,
+    "home_team": "Stars",
+    "pick_result": "loss",
+    "wp_pick": "Stars moneyline"
+  },
+  {
+    "away_score": 4,
+    "away_team": "Islanders",
+    "game_date": "2026-10-29",
+    "home_score": 3,
+    "home_team": "Wild",
+    "pick_result": "loss",
+    "wp_pick": "Wild moneyline"
+  }
+]
