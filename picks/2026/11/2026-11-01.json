@@ -1,0 +1,31 @@
+[
+  {
+    "away_b2b": "No",
+    "away_dark_horse": "Mark Scheifele",
+    "away_goalie": "S. Skinner",
+    "away_goalie_gsaa": 2.17,
+    "away_goalscorer": "Kyle Connor",
+    "away_ml": 243,
+    "away_team": "Jets",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1793555742,
+    "game_date": "2026-11-01",
+    "game_time_et": "1:00 PM EST",
+    "home_b2b": "No",
+    "home_dark_horse": "Andrei Svechnikov",
+    "home_goalie": "P. Kochetkov",
+    "home_goalie_gsaa": 5.28,
+    "home_goalscorer": "Jackson Blake",
+    "home_ml": -279,
+    "home_team": "Hurricanes",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Lean Under 6.0",
+    "pick_odds": -279,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "",
+    "wp_pick": "Hurricanes moneyline",
+    "wp_pick_team": "Hurricanes"
+  }
+]
