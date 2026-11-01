@@ -1,0 +1,92 @@
+[
+  {
+    "away_score": 2,
+    "away_team": "Flames",
+    "game_date": "2026-10-31",
+    "home_score": 5,
+    "home_team": "Avalanche",
+    "pick_result": "loss",
+    "wp_pick": "Flames +1.5"
+  },
+  {
+    "away_score": 4,
+    "away_team": "Blackhawks",
+    "game_date": "2026-10-31",
+    "home_score": 5,
+    "home_team": "Bruins",
+    "pick_result": "win",
+    "wp_pick": "Bruins moneyline"
+  },
+  {
+    "away_score": 4,
+    "away_team": "Penguins",
+    "game_date": "2026-10-31",
+    "home_score": 5,
+    "home_team": "Canadiens",
+    "pick_result": "win",
+    "wp_pick": "Canadiens moneyline"
+  },
+  {
+    "away_score": 4,
+    "away_team": "Maple Leafs",
+    "game_date": "2026-10-31",
+    "home_score": 2,
+    "home_team": "Canucks",
+    "pick_result": "win",
+    "wp_pick": "Maple Leafs moneyline"
+  },
+  {
+    "away_score": 4,
+    "away_team": "Oilers",
+    "game_date": "2026-10-31",
+    "home_score": 0,
+    "home_team": "Islanders",
+    "pick_result": "win",
+    "wp_pick": "Oilers +1.5"
+  },
+  {
+    "away_score": 3,
+    "away_team": "Sabres",
+    "game_date": "2026-10-31",
+    "home_score": 2,
+    "home_team": "Kings",
+    "pick_result": "loss",
+    "wp_pick": "Kings moneyline"
+  },
+  {
+    "away_score": 4,
+    "away_team": "Lightning",
+    "game_date": "2026-10-31",
+    "home_score": 5,
+    "home_team": "Predators",
+    "pick_result": "loss",
+    "wp_pick": "Lightning moneyline"
+  },
+  {
+    "away_score": 5,
+    "away_team": "Blues",
+    "game_date": "2026-10-31",
+    "home_score": 4,
+    "home_team": "Red Wings",
+    "pick_result": "win",
+    "wp_pick": "Blues +1.5"
+  },
+  {
+    "away_score": 5,
+    "away_team": "Senators",
+    "game_date": "2026-10-31",
+    "home_score": 1,
+    "home_team": "Sharks",
+    "pick_result": "loss",
+    "wp_pick": "Sharks +1.5"
+  },
+  {
+    "away_score": 1,
+    "away_team": "Blue Jackets",
+    "game_date": "2026-10-31",
+    "home_score": 3,
+    "home_team": "Stars",
+    "pick_result": "win",
+    "wp_pick": "Stars moneyline"
+  }
+]
