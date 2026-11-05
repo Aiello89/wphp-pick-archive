@@ -1,0 +1,38 @@
+[
+  {
+    "away_score": 2,
+    "away_team": "Sharks",
+    "game_date": "2026-11-04",
+    "home_score": 7,
+    "home_team": "Kings",
+    "pick_result": "win",
+    "wp_pick": "Kings moneyline"
+  },
+  {
+    "away_score": 1,
+    "away_team": "Flames",
+    "game_date": "2026-11-04",
+    "home_score": 2,
+    "home_team": "Kraken",
+    "pick_result": "win",
+    "wp_pick": "Flames +1.5"
+  },
+  {
+    "away_score": 3,
+    "away_team": "Blackhawks",
+    "game_date": "2026-11-04",
+    "home_score": 5,
+    "home_team": "Panthers",
+    "pick_result": "win",
+    "wp_pick": "Panthers moneyline"
+  },
+  {
+    "away_score": 2,
+    "away_team": "Senators",
+    "game_date": "2026-11-04",
+    "home_score": 1,
+    "home_team": "Sabres",
+    "pick_result": "win",
+    "wp_pick": "Senators +1.5"
+  }
+]
