@@ -1,0 +1,31 @@
+[
+  {
+    "away_b2b": "Yes",
+    "away_dark_horse": "Charlie Coyle",
+    "away_goalie": "J. Greaves",
+    "away_goalie_gsaa": -1.38,
+    "away_goalscorer": "Kent Johnson",
+    "away_ml": 154,
+    "away_team": "Blue Jackets",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1794009342,
+    "game_date": "2026-11-06",
+    "game_time_et": "7:00 PM EST",
+    "home_b2b": "No",
+    "home_dark_horse": "Noah Ostlund",
+    "home_goalie": "U. Luukkonen",
+    "home_goalie_gsaa": -4.23,
+    "home_goalscorer": "Tage Thompson",
+    "home_ml": -171,
+    "home_team": "Sabres",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Under 6.5",
+    "pick_odds": -168,
+    "pick_odds_type": "spread_+1.5",
+    "potd_reasoning": "",
+    "wp_pick": "Blue Jackets +1.5",
+    "wp_pick_team": "Blue Jackets"
+  }
+]
