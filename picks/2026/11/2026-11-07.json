@@ -1,0 +1,31 @@
+[
+  {
+    "away_b2b": "No",
+    "away_dark_horse": "Sam Bennett",
+    "away_goalie": "A. Schmid",
+    "away_goalie_gsaa": -0.18,
+    "away_goalscorer": "Sam Reinhart",
+    "away_ml": 111,
+    "away_team": "Panthers",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1794072345,
+    "game_date": "2026-11-07",
+    "game_time_et": "12:30 PM EST",
+    "home_b2b": "No",
+    "home_dark_horse": "Tom Wilson",
+    "home_goalie": "L. Thompson",
+    "home_goalie_gsaa": -0.79,
+    "home_goalscorer": "Alex Tuch",
+    "home_ml": -123,
+    "home_team": "Capitals",
+    "is_pick_of_day": true,
+    "is_strong_favourite": true,
+    "is_underdog_pick": true,
+    "over_under": "Over 6.5",
+    "pick_odds": 111,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Model edge | Model vs market | Underdog value detected",
+    "wp_pick": "Panthers moneyline",
+    "wp_pick_team": "Panthers"
+  }
+]
