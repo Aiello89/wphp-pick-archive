@@ -1,0 +1,31 @@
+[
+  {
+    "away_b2b": "No",
+    "away_dark_horse": "Nikita Kucherov",
+    "away_goalie": "A. Vasilevskiy",
+    "away_goalie_gsaa": -2.45,
+    "away_goalscorer": "Brandon Hagel",
+    "away_ml": -128,
+    "away_team": "Lightning",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1794441343,
+    "game_date": "2026-11-11",
+    "game_time_et": "7:00 PM EST",
+    "home_b2b": "No",
+    "home_dark_horse": "Noah Ostlund",
+    "home_goalie": "U. Luukkonen",
+    "home_goalie_gsaa": -3.72,
+    "home_goalscorer": "Tage Thompson",
+    "home_ml": 116,
+    "home_team": "Sabres",
+    "is_pick_of_day": true,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 6.5",
+    "pick_odds": -128,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Model edge",
+    "wp_pick": "Lightning moneyline",
+    "wp_pick_team": "Lightning"
+  }
+]
