@@ -1,0 +1,31 @@
+[
+  {
+    "away_b2b": "No",
+    "away_dark_horse": "Seth Jarvis",
+    "away_goalie": "Brandon Bussi",
+    "away_goalie_gsaa": -3.92,
+    "away_goalscorer": "Andrei Svechnikov",
+    "away_ml": -285,
+    "away_team": "Hurricanes",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1794502546,
+    "game_date": "2026-11-12",
+    "game_time_et": "12:00 PM EST",
+    "home_b2b": "No",
+    "home_dark_horse": "Jared McCann",
+    "home_goalie": "Philipp Grubauer",
+    "home_goalie_gsaa": -0.5,
+    "home_goalscorer": "Bobby McMann",
+    "home_ml": 248,
+    "home_team": "Kraken",
+    "is_pick_of_day": true,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 6.5",
+    "pick_odds": -285,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Model edge",
+    "wp_pick": "Hurricanes moneyline",
+    "wp_pick_team": "Hurricanes"
+  }
+]
