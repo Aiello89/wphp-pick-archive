@@ -1,0 +1,56 @@
+[
+  {
+    "away_score": 4,
+    "away_team": "Predators",
+    "game_date": "2026-11-11",
+    "home_score": 2,
+    "home_team": "Ducks",
+    "pick_result": "win",
+    "wp_pick": "Predators +1.5"
+  },
+  {
+    "away_score": 3,
+    "away_team": "Rangers",
+    "game_date": "2026-11-11",
+    "home_score": 1,
+    "home_team": "Flames",
+    "pick_result": "loss",
+    "wp_pick": "Flames +1.5"
+  },
+  {
+    "away_score": 3,
+    "away_team": "Mammoth",
+    "game_date": "2026-11-11",
+    "home_score": 5,
+    "home_team": "Golden Knights",
+    "pick_result": "win",
+    "wp_pick": "Golden Knights moneyline"
+  },
+  {
+    "away_score": 2,
+    "away_team": "Flyers",
+    "game_date": "2026-11-11",
+    "home_score": 3,
+    "home_team": "Oilers",
+    "pick_result": "win",
+    "wp_pick": "Flyers +1.5"
+  },
+  {
+    "away_score": 8,
+    "away_team": "Lightning",
+    "game_date": "2026-11-11",
+    "home_score": 3,
+    "home_team": "Sabres",
+    "pick_result": "win",
+    "wp_pick": "Lightning moneyline"
+  },
+  {
+    "away_score": 3,
+    "away_team": "Penguins",
+    "game_date": "2026-11-11",
+    "home_score": 2,
+    "home_team": "Sharks",
+    "pick_result": "win",
+    "wp_pick": "Penguins moneyline"
+  }
+]
