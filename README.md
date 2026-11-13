@@ -31,7 +31,7 @@ Because git history is content-addressed, editing an old pick would change every
 Don't take a marketing page's word for a win rate — compute it from this repo:
 
 ```bash
-git clone https://github.com/Aiello89/wphp-pick-archive
+git clone https://github.com/wpnorth/wphp-pick-archive
 cd wphp-pick-archive
 python3 - <<'EOF'
 import json, pathlib
