@@ -1,0 +1,31 @@
+[
+  {
+    "away_b2b": "No",
+    "away_dark_horse": "Gabe Perreault",
+    "away_goalie": "D. Garand",
+    "away_goalie_gsaa": 4.78,
+    "away_goalscorer": "Pavel Dorofeyev",
+    "away_ml": -210,
+    "away_team": "Rangers",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1794621341,
+    "game_date": "2026-11-13",
+    "game_time_et": "9:00 PM EST",
+    "home_b2b": "No",
+    "home_dark_horse": "Max Sasson",
+    "home_goalie": "Leevi Merilainen",
+    "home_goalie_gsaa": -0.89,
+    "home_goalscorer": "Jake DeBrusk",
+    "home_ml": 186,
+    "home_team": "Canucks",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Under 6.5",
+    "pick_odds": -210,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "",
+    "wp_pick": "Rangers moneyline",
+    "wp_pick_team": "Rangers"
+  }
+]
