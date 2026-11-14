@@ -1,0 +1,31 @@
+[
+  {
+    "away_b2b": "No",
+    "away_dark_horse": "Jared McCann",
+    "away_goalie": "Joey Daccord",
+    "away_goalie_gsaa": -2.32,
+    "away_goalscorer": "Bobby McMann",
+    "away_ml": 328,
+    "away_team": "Kraken",
+    "confidence_tier": "Strong",
+    "finalized_at_unix": 1794678948,
+    "game_date": "2026-11-14",
+    "game_time_et": "1:00 PM EST",
+    "home_b2b": "No",
+    "home_dark_horse": "Seth Jarvis",
+    "home_goalie": "Pyotr Kochetkov",
+    "home_goalie_gsaa": 7.21,
+    "home_goalscorer": "Andrei Svechnikov",
+    "home_ml": -388,
+    "home_team": "Hurricanes",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 6.5",
+    "pick_odds": null,
+    "pick_odds_type": "spread_-1.5",
+    "potd_reasoning": "",
+    "wp_pick": "Hurricanes -1.5",
+    "wp_pick_team": "Hurricanes"
+  }
+]
